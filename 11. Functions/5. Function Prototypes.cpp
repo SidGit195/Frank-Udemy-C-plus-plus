@@ -1,0 +1,1 @@
+// If we first define proto-type then calling order of function does not matter.
